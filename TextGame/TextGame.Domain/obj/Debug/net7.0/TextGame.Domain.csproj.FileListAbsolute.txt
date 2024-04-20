@@ -1,0 +1,12 @@
+Z:\Prj\TextGame\TextGame\TextGame.Domain\bin\Debug\net7.0\TextGame.Domain.deps.json
+Z:\Prj\TextGame\TextGame\TextGame.Domain\bin\Debug\net7.0\TextGame.Domain.dll
+Z:\Prj\TextGame\TextGame\TextGame.Domain\bin\Debug\net7.0\TextGame.Domain.pdb
+Z:\Prj\TextGame\TextGame\TextGame.Domain\obj\Debug\net7.0\TextGame.Domain.csproj.AssemblyReference.cache
+Z:\Prj\TextGame\TextGame\TextGame.Domain\obj\Debug\net7.0\TextGame.Domain.GeneratedMSBuildEditorConfig.editorconfig
+Z:\Prj\TextGame\TextGame\TextGame.Domain\obj\Debug\net7.0\TextGame.Domain.AssemblyInfoInputs.cache
+Z:\Prj\TextGame\TextGame\TextGame.Domain\obj\Debug\net7.0\TextGame.Domain.AssemblyInfo.cs
+Z:\Prj\TextGame\TextGame\TextGame.Domain\obj\Debug\net7.0\TextGame.Domain.csproj.CoreCompileInputs.cache
+Z:\Prj\TextGame\TextGame\TextGame.Domain\obj\Debug\net7.0\TextGame.Domain.dll
+Z:\Prj\TextGame\TextGame\TextGame.Domain\obj\Debug\net7.0\refint\TextGame.Domain.dll
+Z:\Prj\TextGame\TextGame\TextGame.Domain\obj\Debug\net7.0\TextGame.Domain.pdb
+Z:\Prj\TextGame\TextGame\TextGame.Domain\obj\Debug\net7.0\ref\TextGame.Domain.dll

@@ -1,0 +1,30 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TextGame", "TextGame\TextGame.csproj", "{F384F937-E09B-4069-8E0A-D1312F228871}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "PL", "PL", "{69C23401-E434-49AB-A14B-FFF97E47AEA8}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Core", "Core", "{F0C02B1E-3ACF-4688-A18B-2EF2226A0FE5}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TextGame.Domain", "TextGame.Domain\TextGame.Domain.csproj", "{A900CC7D-E2A2-4FEF-A29C-0B18FA6D9477}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{F384F937-E09B-4069-8E0A-D1312F228871}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F384F937-E09B-4069-8E0A-D1312F228871}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F384F937-E09B-4069-8E0A-D1312F228871}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F384F937-E09B-4069-8E0A-D1312F228871}.Release|Any CPU.Build.0 = Release|Any CPU
+		{A900CC7D-E2A2-4FEF-A29C-0B18FA6D9477}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A900CC7D-E2A2-4FEF-A29C-0B18FA6D9477}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A900CC7D-E2A2-4FEF-A29C-0B18FA6D9477}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A900CC7D-E2A2-4FEF-A29C-0B18FA6D9477}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(NestedProjects) = preSolution
+		{A900CC7D-E2A2-4FEF-A29C-0B18FA6D9477} = {F0C02B1E-3ACF-4688-A18B-2EF2226A0FE5}
+		{F384F937-E09B-4069-8E0A-D1312F228871} = {69C23401-E434-49AB-A14B-FFF97E47AEA8}
+	EndGlobalSection
+EndGlobal
